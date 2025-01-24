@@ -20,10 +20,10 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFA500"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/requests-3776AB?style=for-the-badge"/>
 
 #### Работа с таблицами и базами данных
-<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFA500"/> <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=black"/> <img src="https://img.shields.io/badge/sql alchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=black"/> <img src="https://img.shields.io/badge/postgresql-B0C4DE?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFA500"/> <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=black"/> <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/> <img src="https://img.shields.io/badge/sql alchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=black"/> <img src="https://img.shields.io/badge/postgresql-B0C4DE?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
 
 #### Дополнительные инструменты
-<img src="https://img.shields.io/badge/git-B0C4DE?style=for-the-badge&logo=git&logoColor=F05032"/> <img src="https://img.shields.io/badge/jupyter-B0C4DE?style=for-the-badge&logo=jupyter&logoColor=F37626"/> <img src="https://img.shields.io/badge/airflow-FF4500?style=for-the-badge&logo=apacheairflow&logoColor=black"/>
+<img src="https://img.shields.io/badge/git-B0C4DE?style=for-the-badge&logo=git&logoColor=F05032"/> <img src="https://img.shields.io/badge/jupyter-B0C4DE?style=for-the-badge&logo=jupyter&logoColor=F37626"/> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/airflow-FF4500?style=for-the-badge&logo=apacheairflow&logoColor=black"/>
 
 #### Машинное обучение
 <img src="https://img.shields.io/badge/sklearn-3776AB?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/> <img src="https://img.shields.io/badge/catboost-FFA500?style=for-the-badge"/> <img src="https://img.shields.io/badge/lightgbm-228B22?style=for-the-badge"/>
