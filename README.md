@@ -14,7 +14,7 @@
 - Математика для DS - Karpov Courses
 
 <h2>Навыки:</h2>
-<div align="center">
+<div align="left">
 
 - Разведовательный анализ данных (EDA)
 - Работа с пропущенными значениями в датасетах
@@ -25,7 +25,7 @@
 </div>
 
 <h2>Стек технологий:</h2>
-<div align="center">
+<div align="left">
 
 <h3>Питон и приложения</h3>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFA500"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/requests-3776AB?style=for-the-badge"/>
@@ -45,7 +45,7 @@
 </div>
 
 <h2>Мои проекты</h2>
-<div align="center">
+<div align="left">
 
 | Название | Результат | Стек |
 |:----------:|:-----------------:|:-------------:|
@@ -56,7 +56,7 @@
 </div>
 
 <h2>Контакты</h2>
-<div align="center">
+<div align="left">
   
 [![Telegram](https://img.shields.io/badge/Telegram-0b0038?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/maltsevm)
 [![Gmail](https://img.shields.io/badge/Gmail-0b0038?style=for-the-badge&logo=gmail&logoColor=red)](mailto:maximmaltsev48@gmail.com)
